@@ -1,0 +1,1 @@
+print("¡Hola mundo desde una imagen Distroless ultraligera de Google!")
